@@ -1,7 +1,7 @@
-9365d7ac4298d849c883a724eade6146 *DESCRIPTION
-fc05b9f1d2f5c859fea9c160c5d948e6 *LICENSE.note
+168c72a05f149428e2ac802978d5cef0 *DESCRIPTION
+e3cde8fcaf80aa03fcf31d4274866fd2 *LICENSE.note
 aef5f42da36b9e0b020cf4bb20b73d3f *NAMESPACE
-ecdcab0b71b69c1d7962d7d77cb03e67 *NEWS.md
+ecde36c0efdf78d1466d0eabac2a0189 *NEWS.md
 330565cfe820c080bf16b013d4609307 *R/all_classes.R
 e49147eb97f45e62548d29a6bfcccce7 *R/auc.R
 42a79cb1d8e3f5a3dfb15b9862eea75f *R/auc_trap_rule.R
@@ -42,7 +42,7 @@ b9093749d39976531b278fe862aad58a *R/time_above_below.R
 5a2e3a88151ac2204b42efd5c3231353 *R/tmax.R
 590e8fd836a06b4b3dbee77f18c9fd68 *R/tmin.R
 fb2c3981c1e45798c907278b11526554 *R/utilities.R
-b37eed557e9670efb7e4f4d08ccc98ff *README.md
+d1a518e2350dd33d299ee508b1a49367 *README.md
 66109fb032cea19906b27fc31317e0ff *data/pk_bolus_md.rda
 be5dbff55acf775ffdf13bbe418358c5 *inst/extdata/campsisnca_replicated_table.schema.json
 589cf5f92f0c7fe5eab2516fe5bcddd2 *inst/extdata/campsisnca_table.schema.json
